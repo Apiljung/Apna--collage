@@ -1,5 +1,5 @@
 # Apna--collage
-This is my  Git first Repository.
+This is my first Git  Repository.
 <br>
 
 Author - Apil jung
